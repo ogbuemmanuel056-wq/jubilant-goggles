@@ -1,0 +1,3 @@
+npx vercel env pull .env.local --environment=production
+pnpm preflight
+pnpm migrate
